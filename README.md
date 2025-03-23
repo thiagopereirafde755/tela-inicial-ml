@@ -4,7 +4,7 @@ Este projeto é uma recriação da tela inicial do Mercado Livre, desenvolvido c
 
 ## Imagem do Projeto Finalizado
 
-![Tela Inicial Mercado Livre](tela%20inicial%20-%20ml/img/projeto%20final.png)
+<img src="tela  inicial - ml/img/projeto final.png" alt="Imagem do projeto finalizado">
 
 ## Visualize o Projeto
 
