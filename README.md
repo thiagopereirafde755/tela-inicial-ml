@@ -1,6 +1,18 @@
-<h1 align="center">Tela de inicio do Mercado Livre 💻</h1>
+# Tela de Início do Mercado Livre 💻
 
-<img src="tela  inicial - ml/img/projeto final.png" alt="Imagem do projeto finalizado">
+Este projeto é uma recriação da tela inicial do Mercado Livre, desenvolvido com HTML, CSS e JavaScript. O objetivo deste projeto foi praticar a construção de interfaces da ta de início do Mercado Livre.
 
+## Imagem do Projeto Finalizado
 
-<h4 align="center"><a href="https://tela-inicial-ml.netlify.app/" target="_blank">Confira o projeto aqui</a></h4>
+![Tela Inicial Mercado Livre](tela%20inicial%20-%20ml/img/projeto%20final.png)
+
+## Visualize o Projeto
+
+Você pode visualizar o projeto finalizado clicando no link abaixo:
+
+[Confira o projeto aqui](https://tela-inicial-ml.netlify.app/)
+
+## Tecnologias Utilizadas
+
+- **HTML**: Estruturação da página web.
+- **CSS**: Estilização e layout da página.
