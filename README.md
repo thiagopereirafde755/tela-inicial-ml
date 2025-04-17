@@ -1,6 +1,6 @@
 # Tela de Início do Mercado Livre 💻
 
-Este projeto é uma recriação da tela inicial do Mercado Livre, desenvolvido com HTML, CSS e JavaScript. O objetivo deste projeto foi praticar a construção de interfaces da ta de início do Mercado Livre.
+Este projeto é uma recriação da tela inicial do Mercado Livre, desenvolvido com HTML, CSS e JavaScript. O objetivo deste projeto foi praticar a construção de interfaces da tela do Mercado Livre.
 
 ## Imagem do Projeto Finalizado
 
